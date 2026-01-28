@@ -1,4 +1,4 @@
-# Hi there, I'm Hüseyin Budak! 👋
+# Hi there, I'm Özkan Özarslan! 👋
 
 ### 👨‍💻 Software Engineer | Mobile Developer Enthusiast
 
