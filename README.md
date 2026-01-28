@@ -27,7 +27,7 @@ Senior Software Engineering student at Aksaray University, passionate about buil
 **Mobile & Frameworks**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jetpack_compose/jetpack_compose-icon.svg" alt="jetpack_compose" width="40" height="40"/>
+  <img src="[https://www.vectorlogo.zone/logos/jetpack_compose/jetpack_compose-icon.svg" alt="jetpack_compose" width="40" height="40](https://hexmos.com/freedevtools/svg_icons/jetpackcompose/jetpackcompose-original.svg)"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
 </p>
 
@@ -41,12 +41,7 @@ Senior Software Engineering student at Aksaray University, passionate about buil
 
 ---
 
-### 📂 Featured Projects
-*Buraya en iyi 2-3 projenin linkini ve kısa açıklamasını ekleyebilirsin.*
-- 📱 [Proje Adı](link) - Projenin ne yaptığını anlatan kısa bir cümle.
-- 🎮 [Oyun Adı](link) - Geliştirdiğin bir hyper-casual oyunun linki.
 
----
 
 ### 📊 GitHub Stats
 
