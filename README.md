@@ -60,5 +60,3 @@ Senior Software Engineering student at Aksaray University, passionate about buil
 
 ---
 
-### ⚡ Fun Fact
-"Sadece kod yazmıyorum, aynı zamanda 'mal mal' oyunların mekaniklerini çözmeye bayılıyorum! 😂"
